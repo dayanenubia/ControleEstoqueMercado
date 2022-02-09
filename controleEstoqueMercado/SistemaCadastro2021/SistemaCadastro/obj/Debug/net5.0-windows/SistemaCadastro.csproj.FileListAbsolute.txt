@@ -1,0 +1,131 @@
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.deps.json
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.runtimeconfig.json
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.runtimeconfig.dev.json
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\bin\Debug\net5.0-windows\ref\SistemaCadastro.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Sistema.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.GenerateResource.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.AssemblyInfoInputs.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.AssemblyInfo.cs
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0-windows\ref\SistemaCadastro.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.genruntimeconfig.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csprojAssemblyReference.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro2021\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Properties.Resources.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.deps.json
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.runtimeconfig.json
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.runtimeconfig.dev.json
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\ref\SistemaCadastro.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csprojAssemblyReference.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Properties.Resources.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Sistema.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.GenerateResource.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.AssemblyInfoInputs.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.AssemblyInfo.cs
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\obj\Debug\net5.0-windows\ref\SistemaCadastro.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.genruntimeconfig.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro Alunos 2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.CopyComplete
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.exe
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.deps.json
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.runtimeconfig.json
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.runtimeconfig.dev.json
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\ref\SistemaCadastro.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.pdb
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.AssemblyReference.cache
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Properties.Resources.resources
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Sistema.resources
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.GenerateResource.cache
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.AssemblyInfoInputs.cache
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.AssemblyInfo.cs
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\obj\Debug\net5.0-windows\ref\SistemaCadastro.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.pdb
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.genruntimeconfig.cache
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021-45d5162722860fd1cf82a70e2abaef2393cf9c1d\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Login.resources
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.AssemblyReference.cache
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Login.resources
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Sistema.resources
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.GenerateResource.cache
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\ref\SistemaCadastro.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.pdb
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.exe
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.deps.json
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.runtimeconfig.json
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.runtimeconfig.dev.json
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\ref\SistemaCadastro.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.pdb
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Properties.Resources.resources
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.AssemblyInfoInputs.cache
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.AssemblyInfo.cs
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\not\OneDrive\Área de Trabalho\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.genruntimeconfig.cache
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.exe
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.deps.json
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.runtimeconfig.json
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.runtimeconfig.dev.json
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.dll
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\ref\SistemaCadastro.dll
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.pdb
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.AssemblyReference.cache
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Login.resources
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Properties.Resources.resources
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Sistema.resources
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.GenerateResource.cache
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.AssemblyInfoInputs.cache
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.AssemblyInfo.cs
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.dll
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\ref\SistemaCadastro.dll
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.pdb
+C:\Users\not\OneDrive\Área de Trabalho\BancoDados\SistemaCadastro2021\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.genruntimeconfig.cache
